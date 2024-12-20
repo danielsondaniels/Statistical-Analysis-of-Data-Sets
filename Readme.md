@@ -1,5 +1,5 @@
 # Single Layer Neural Network (Boolean Expressions)
-#Autor: Daniel Kabu
+#Autor: Каргбо Даниел бартоломео
 
 ## Overview
 This project demonstrates the implementation and training of a simple **single-layer neural network (NN)** to solve basic Boolean classification problems like **AND** and **OR** using the **Widrow-Hoff learning rule**.

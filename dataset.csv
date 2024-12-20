@@ -1,0 +1,51 @@
+ID,Gender,Weight,Height,Systolic Pressure,Diastolic Pressure,Cholesterol,Smoker,Diabetes
+1.61,M,54,164,138.97,Low,Yes,No
+2.38,M,73,167,124.86,High,No,Yes
+3.33,M,108,167,130.93,Normal,No,Yes
+4.74,M,101,159,158.75,Normal,Yes,No
+5.49,M,104,157,113.77,Low,Yes,Yes
+6.62,F,61,160.1 16.85,Low,No,No
+7.33,F,62.177,133.96,Normal,No,No
+8.30,M,72.185,159.98,Low,No,No
+9.64,M,117.155,115.89,Normal,Yes,No
+10.74,F,117.167,158.77,High,No,No
+11.37,M,52.196,110.85,High,Yes,Yes
+12.37,M,71.181,126.80,Low,Yes, Yes
+13.58,F,112,180,155.81,Low,Yes,No
+14.36,F,102,189,125.73,Low,No,No
+15.64,F,81,172,137.80,Normal,No,Yes
+16.45,F,107,190,156.83,Low,Yes,No
+17.55,F,69,199,116.94,High,No,No
+18.75,F,59,159,130.76,High,Yes,No
+19.20,F,5 7,174,141.73,Normal,No,No
+20.36,F,99,194,117.78,Low,No,No
+21.30,M,55,167,115.85,Low,No,Yes
+22.54,M,55,196,143.92,Low,Yes,Yes
+23.51,F,73,163,136.95,Low,No,No
+24.48,F,70,195,133.84,High,No,Yes
+25.61,M,82,173,149.94,Ba ixo,No,No
+26.23,F,98.169,151.89,Normal,No,Yes
+27.56,F,120.192,149.82,Normal,No,Yes
+28.38,M,105.165,135.82,Normal,No,No
+29.77,F,65.185,117.79,High,Yes,Yes
+30.57,F,113.174,143.82,Normal,Yes,Yes
+31.54,M,56.180,120.90,Low,Yes,S im
+32.28,M,98.179,146.94,Normal,No,Yes
+33.53,M,50.179,132.91,Low,Yes,Yes
+34.40,M,81.165,124.80,Normal,Yes,No
+35.79,M,67.165,160.81,High,Yes,Yes
+36.58,F,58.176,147.81,Normal,No,Yes
+37.37,F,83.198,149.76,Low,Yes,Yes
+38.32,M,10 9,193,153,88,High,Yes,Yes
+39.80,F,93,176,130,97,Normal,No,No
+40.20,F,101,169,118,91,Normal,No,No
+41.18,M,65,151,112,83,High,Yes,Yes
+42.65,F,53,195,142,95,Normal,Yes,No
+43.78,M,96,161,150,100,High,No,Yes
+44.23,M,72,188,127,80, Low,No,No
+45.66,F,118.158,138.76,High,No,No
+46.39,F,97.167,150.74,High,Yes,No
+47.53,M,68.193,142.83,Normal,Yes,No
+48.72,F,87.159,120.70,High,Yes,No
+49.54,M,105.154,138.84,Low,No,No
+50.59,M,106.158,122.82,Normal,Yes,Yes
